@@ -72,6 +72,27 @@
 
 ## 🚀 Featured Projects
 
+### 🔎 B-Recon — OSINT & Reconnaissance Toolkit
+
+A cybersecurity-focused OSINT and reconnaissance toolkit built with Python, combining multiple intelligence-gathering and analysis capabilities into a unified desktop environment.
+
+**Highlights:**
+- 🔎 16 investigation modules
+- 🌐 51 OSINT sources
+- 🧩 60+ investigation templates
+- 👤 Username, email, phone, domain & IP intelligence
+- 🖧 Network and web reconnaissance
+- 📄 Metadata extraction and analysis
+- 🗂️ Case & evidence management
+- 🕸️ Relationship graph visualization
+
+**Focus:** `OSINT` `Reconnaissance` `Cybersecurity` `Python`
+
+[![View Repository](https://img.shields.io/badge/View_Repository-B--Recon-181717?style=for-the-badge&logo=github)](https://github.com/Biuret7/B-Recon)
+[![Website](https://img.shields.io/badge/Website-biuret.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biuret.dev)
+
+<br>
+
 ### 🔐 BiuLock — Password Manager
 
 A secure password manager built with Python, focused on safely storing and managing user credentials.
