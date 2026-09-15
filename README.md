@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Hamdan</h1>
-<h3 align="center">Cybersecurity Engineering Student | Security Researcher in Progress</h3>
+<h3 align="center">Cybersecurity Engineering Student | OSINT & Offensive Security Enthusiast</h3>
 
 <p align="center">
   Passionate about Cybersecurity, Offensive Security, OSINT, and building security-focused tools.
