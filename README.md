@@ -89,7 +89,7 @@ A cybersecurity-focused OSINT and reconnaissance toolkit built with Python, comb
 **Focus:** `OSINT` `Reconnaissance` `Cybersecurity` `Python`
 
 [![View Repository](https://img.shields.io/badge/View_Repository-B--Recon-181717?style=for-the-badge&logo=github)](https://github.com/Biuret7/B-Recon)
-[![Website](https://img.shields.io/badge/Website-biuret.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biuret.dev)
+[![Website](https://img.shields.io/badge/Website-biuret.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biuret.dev/sites/b-recon.html)
 
 <br>
 
