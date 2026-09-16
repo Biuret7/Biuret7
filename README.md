@@ -108,7 +108,7 @@ A secure password manager built with Python, focused on safely storing and manag
 **Built with:** `Python` `PyQt6` `Cryptography`
 
 [![View Repository](https://img.shields.io/badge/View_Repository-BiuLock-181717?style=for-the-badge&logo=github)](https://github.com/Biuret7/BiuLock)
-
+[![Website](https://img.shields.io/badge/Website-biuret.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biuret.dev/sites/biulock.html)
 
 ---
 
