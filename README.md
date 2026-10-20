@@ -72,43 +72,22 @@
 
 ## 🚀 Featured Projects
 
-### 🔎 B-Recon — OSINT & Reconnaissance Toolkit
+### 🌙 Biuret PrayerPal — Prayer Times & Reminders
 
-A cybersecurity-focused OSINT and reconnaissance toolkit built with Python, combining multiple intelligence-gathering and analysis capabilities into a unified desktop environment.
+A Windows desktop companion for prayer and remembrance, with offline prayer-time calculations, an Arabic RTL interface, and customizable notifications.
 
 **Highlights:**
-- 🔎 16 investigation modules
-- 🌐 51 OSINT sources
-- 🧩 60+ investigation templates
-- 👤 Username, email, phone, domain & IP intelligence
-- 🖧 Network and web reconnaissance
-- 📄 Metadata extraction and analysis
-- 🗂️ Case & evidence management
-- 🕸️ Relationship graph visualization
+- 🕌 Prayer times and next-prayer countdown
+- 🔔 Prayer alerts and optional morning/evening Azkar reminders
+- 🎨 Dark/light themes and customizable popup positions, colors, and animations
+- 🔊 Volume controls and bundled Adhan by Omar Hisham Al Arabi
+- 🪟 Windows installer with shortcuts and uninstall support
+- 💾 Local preferences and offline calculations
 
-**Focus:** `OSINT` `Reconnaissance` `Cybersecurity` `Python`
+**Built with:** `Python` `PySide6` `Qt 6`
 
-[![View Repository](https://img.shields.io/badge/View_Repository-B--Recon-181717?style=for-the-badge&logo=github)](https://github.com/Biuret7/B-Recon)
-[![Website](https://img.shields.io/badge/Website-biuret.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biuret.dev/sites/b-recon.html)
-
-<br>
-
-### 🔐 BiuLock — Password Manager
-
-A secure password manager built with Python, focused on safely storing and managing user credentials.
-
-**Key Features:**
-- 🔒 AES-256 encryption
-- 🔑 Master password authentication
-- 📋 Secure password management
-- 🔍 Search and credential organization
-- ⏱️ Automatic locking
-- 📋 Quick clipboard copying
-
-**Built with:** `Python` `PyQt6` `Cryptography`
-
-[![View Repository](https://img.shields.io/badge/View_Repository-BiuLock-181717?style=for-the-badge&logo=github)](https://github.com/Biuret7/BiuLock)
-[![Website](https://img.shields.io/badge/Website-biuret.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biuret.dev/sites/biulock.html)
+[![View Repository](https://img.shields.io/badge/View_Repository-Biuret_PrayerPal-181717?style=for-the-badge&logo=github)](https://github.com/Biuret7/Biuret-PrayerPal)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows_Installer-10B981?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Biuret7/Biuret-PrayerPal/releases/download/V1.0.0/BiuretPrayerPal-V1.0.0-Windows-x64.exe)
 
 ---
 
